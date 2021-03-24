@@ -1,0 +1,19 @@
+{
+  "name": "artem0793",
+  "version": "1.0.0",
+  "description": "test project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artem0793/web-telegram-admin.git"
+  },
+  "author": "Artem Vilkov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artem0793/web-telegram-admin/issues"
+  },
+  "homepage": "https://github.com/artem0793/web-telegram-admin#readme"
+}
